@@ -1,6 +1,6 @@
 # GitReceipt
 
-A "Vibe Coding" web application that generates a realistic-looking "Shopping Receipt" based on a user's GitHub activity.
+A web application that generates a realistic-looking "Shopping Receipt" based on a user's GitHub activity.
 
 ## Tech Stack
 - React (Vite)
