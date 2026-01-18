@@ -1,7 +1,8 @@
 # GitReceipt
 
 A web application that generates a realistic-looking "Shopping Receipt" based on a user's GitHub activity.
-Live link: git-receipt-in.vercel.app
+**Live:** [git-receipt-in.vercel.app](https://git-receipt-in.vercel.app)  
+**Built with love.**
 
 ## Tech Stack
 - React (Vite)
